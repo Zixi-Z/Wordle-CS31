@@ -1,7 +1,7 @@
 # Wordle-CS31
 Wordle is a popular word game found at: [Wordle - The New York Times][1].  
 
-This is the final project of CS31-22fall.  
+This is the final project of CS31-22summer.  
 
 A five-letter word is chosen randomly each play.   
 
