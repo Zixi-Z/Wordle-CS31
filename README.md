@@ -9,7 +9,7 @@ Enter p to start a guess. After every guess, each letter is marked as either 'R'
 
 <img src="./Images/image01.jpg">
 
-Players have up to eight tries. After eight failures, the winning world will be displayed.
+Players have up to eight tries. After eight failures, the winning word will be displayed.
 
 <img src="./Images/image02.jpg">
 
